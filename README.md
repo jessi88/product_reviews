@@ -55,4 +55,4 @@ Discover the topics in the reviews and present it to business in a consumable fo
     - General: call, processor, speaker, sound, everything, music, app, customer, ram, support
     
  ## Link to Notebook
- [Project_Review_Project_Analysis_Bosch.ipynb](https://github.com/jessi88/product_reviews/blob/main/Project_Review_Project_Analysis_Bosch.ipynb)
+ [Project_Review_Project_Analysis_Bosch.ipynb](https://github.com/jessi88/product_reviews/blob/main/product_reviews.ipynb)
